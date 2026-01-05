@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "E:\\Projects\\circleapp\\API\\CircleApp.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36ED9B12-5653-491B-AB7C-C300C970073D}|CircleApp.API\\CircleApp.API.csproj|e:\\projects\\circleapp\\api\\circleapp.api\\circleapp.api\\circleapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{36ED9B12-5653-491B-AB7C-C300C970073D}|CircleApp.API\\CircleApp.API.csproj|solutionrelative:circleapp.api\\circleapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|e:\\projects\\circleapp\\api\\circleapp.api\\circleapp.api\\circleapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|solutionrelative:circleapp.api\\circleapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36ED9B12-5653-491B-AB7C-C300C970073D}|CircleApp.API\\CircleApp.API.csproj|e:\\projects\\circleapp\\api\\circleapp.api\\circleapp.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36ED9B12-5653-491B-AB7C-C300C970073D}|CircleApp.API\\CircleApp.API.csproj|solutionrelative:circleapp.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|e:\\projects\\circleapp\\api\\circleapp.api\\circleapp.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|solutionrelative:circleapp.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36ED9B12-5653-491B-AB7C-C300C970073D}|CircleApp.API\\CircleApp.API.csproj|e:\\projects\\circleapp\\api\\circleapp.api\\circleapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{36ED9B12-5653-491B-AB7C-C300C970073D}|CircleApp.API\\CircleApp.API.csproj|solutionrelative:circleapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|e:\\projects\\circleapp\\api\\circleapp.api\\circleapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|solutionrelative:circleapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36ED9B12-5653-491B-AB7C-C300C970073D}|CircleApp.API\\CircleApp.API.csproj|e:\\projects\\circleapp\\api\\circleapp.api\\circleapp.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36ED9B12-5653-491B-AB7C-C300C970073D}|CircleApp.API\\CircleApp.API.csproj|solutionrelative:circleapp.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|e:\\projects\\circleapp\\api\\circleapp.api\\circleapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|solutionrelative:circleapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36ED9B12-5653-491B-AB7C-C300C970073D}|CircleApp.API\\CircleApp.API.csproj|e:\\projects\\circleapp\\api\\circleapp.api\\circleapp.api\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36ED9B12-5653-491B-AB7C-C300C970073D}|CircleApp.API\\CircleApp.API.csproj|solutionrelative:circleapp.api\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|e:\\projects\\circleapp\\api\\circleapp.api\\circleapp.api\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|solutionrelative:circleapp.api\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36ED9B12-5653-491B-AB7C-C300C970073D}|CircleApp.API\\CircleApp.API.csproj|e:\\projects\\circleapp\\api\\circleapp.api\\circleapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{36ED9B12-5653-491B-AB7C-C300C970073D}|CircleApp.API\\CircleApp.API.csproj|solutionrelative:circleapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|e:\\projects\\circleapp\\api\\circleapp.api\\circleapp.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|solutionrelative:circleapp.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|e:\\projects\\circleapp\\api\\circleapp.api\\circleapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349587AC-0DEB-AC8C-3D13-59C7DDC9F3A8}|CircleApp.API\\CircleApp.API.csproj|solutionrelative:circleapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,10 +48,9 @@
               "RelativeDocumentMoniker": "CircleApp.API\\appsettings.json",
               "ToolTip": "E:\\Projects\\circleapp\\API\\CircleApp.API\\CircleApp.API\\appsettings.json",
               "RelativeToolTip": "CircleApp.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-02T13:17:15.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T13:17:15.583Z"
             },
             {
               "$type": "Document",
@@ -59,13 +62,12 @@
               "RelativeToolTip": "CircleApp.API\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T13:07:21.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T13:07:21.098Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CircleApp.API",
+              "Title": "CircleApp.API.csproj",
               "DocumentMoniker": "E:\\Projects\\circleapp\\API\\CircleApp.API\\CircleApp.API\\CircleApp.API.csproj",
               "RelativeDocumentMoniker": "CircleApp.API\\CircleApp.API.csproj",
               "ToolTip": "E:\\Projects\\circleapp\\API\\CircleApp.API\\CircleApp.API\\CircleApp.API.csproj",
@@ -77,7 +79,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\circleapp\\API\\CircleApp.API\\CircleApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "CircleApp.API\\Program.cs",
+              "ToolTip": "E:\\Projects\\circleapp\\API\\CircleApp.API\\CircleApp.API\\Program.cs",
+              "RelativeToolTip": "CircleApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:18:50.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\Projects\\circleapp\\API\\CircleApp.API\\CircleApp.API\\Models\\Domain\\Category.cs",
               "RelativeDocumentMoniker": "CircleApp.API\\Models\\Domain\\Category.cs",
@@ -85,8 +99,7 @@
               "RelativeToolTip": "CircleApp.API\\Models\\Domain\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T12:59:23.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T12:59:23.586Z"
             },
             {
               "$type": "Document",
@@ -98,12 +111,11 @@
               "RelativeToolTip": "CircleApp.API\\Models\\Domain\\BlogPost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T12:48:05.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T12:48:05.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\Projects\\circleapp\\API\\CircleApp.API\\CircleApp.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CircleApp.API\\Properties\\launchSettings.json",
@@ -111,8 +123,7 @@
               "RelativeToolTip": "CircleApp.API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-02T12:44:19.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T12:44:19.617Z"
             }
           ]
         }

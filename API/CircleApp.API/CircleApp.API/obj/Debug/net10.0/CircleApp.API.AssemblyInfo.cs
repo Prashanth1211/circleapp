@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CircleApp.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38d79c6bc1202eac82b8d4e3affc15d9fc1a7ff7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3fd12e25aca9860792ece5d04b3523673b1f2fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("CircleApp.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CircleApp.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
